@@ -1,0 +1,16 @@
+The issues that I noticed were
+1. When hitting the reset button, it didnt work, like it would say at the top that
+    there were more attempts, but in the dev notes it showed 0
+2. The secret number was 65, but when I when I attempted:
+    50 = Go Lower!
+    25 = Go Lower!
+    12 = Go Lower!
+    6 = Go Lower!
+    3 = Go Lower!
+    1 = Go Lower!
+    0 = Go Lower!
+
+3. The score becomes more and more negative with each attempt.
+4. When you submit a number below the secret number, it says GO LOWER
+    But when you do a number above, it says GO HIGHER! So it is telling you to do the opposite thing.
+5. When doing the correct number, you need to submit the number 2x times. 
